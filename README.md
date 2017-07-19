@@ -1,3 +1,12 @@
+# Excercise files Details:
+* ExData_Plotting.R: Source to down load and load file
+* plot1.r, plot1.png: Source code and output for plot1
+* plot2.r, plot1.png: Source code and output for plot2
+* plot3.r, plot1.png: Source code and output for plot3
+* plot4.r, plot1.png: Source code and output for plot4
+
+**********
+
 ## Introduction
 
 This assignment uses data from
